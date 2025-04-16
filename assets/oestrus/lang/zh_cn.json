@@ -1,0 +1,33 @@
+{
+    "item.oestrus.c6h5no2": "硝基苯",
+    "item.oestrus.c9h11no": "氨基丙苯",
+    "item.oestrus.dried_rosin": "烘干的松香",
+    "item.oestrus.aromatherapy": "香薰药剂",
+    "item.oestrus.downer": "镇定剂",
+    "item.oestrus.flowers_extracts": "花粹",
+    "item.oestrus.flowers_dust": "花尘",
+    "item.oestrus.flowers_dust_in_bottle": "花尘水",
+    "block.oestrus.extracts_mix_block": "花粹混合器",
+    "item.oestrus.oestrus_pools_bucket": "媚药桶",
+    "item.oestrus.oestrus_pools_plus_bucket": "媚药桶+",
+    "fluid.oestrus.oestrus_pools": "媚药水",
+    "fluid.oestrus.oestrus_pools_plus": "媚药水+",
+    "item.oestrus.aurora_crescent": "极光新月",
+
+    "item.minecraft.potion.effect.oestrus_potion": "发情药水",
+    "item.minecraft.splash_potion.effect.oestrus_potion": "喷溅型发情药水",
+    "item.minecraft.lingering_potion.effect.oestrus_potion": "滞留型发情药水",
+    "item.minecraft.tipped_arrow.effect.oestrus_potion": "催情箭",
+    "item.minecraft.potion.effect.oestrus_potion_delay": "发情药水",
+    "item.minecraft.splash_potion.effect.oestrus_potion_delay": "喷溅型发情药水",
+    "item.minecraft.lingering_potion.effect.oestrus_potion_delay": "滞留型发情药水",
+    "item.minecraft.tipped_arrow.effect.oestrus_potion_delay": "催情箭",
+    "item.minecraft.potion.effect.oestrus_potion_strong": "发情药水",
+    "item.minecraft.splash_potion.effect.oestrus_potion_strong": "喷溅型发情药水",
+    "item.minecraft.lingering_potion.effect.oestrus_potion_strong": "滞留型发情药水",
+    "item.minecraft.tipped_arrow.effect.oestrus_potion_strong": "催情箭",
+
+    "effect.oestrus.oestrus.description": "使玩家头上冒爱心\n使可以繁殖的动物立即进入繁殖状态\n玩家在被绑时自动加速",
+    "effect.oestrus.oestrus_plus.description": "使玩家头上冒爱心\n使可以繁殖的动物立即进入繁殖状态\n捆绑条自动增长"
+
+}
